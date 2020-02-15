@@ -1,0 +1,38 @@
+U:\Sibrava\4.rocnik\pomocne-tridy\entity-framework\zdrojovy-projekt\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.dll
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.SqlServer.dll
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\MySql.Data.dll
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\MySql.Data.Entity.EF6.dll
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.xml
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.SqlServer.xml
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csprojAssemblyReference.cache
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Admin.resources
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Form1.resources
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.cache
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CopyComplete
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+X:\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csprojAssemblyReference.cache
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Admin.resources
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.cache
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.dll
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\MySql.Data.dll
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.xml
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CopyComplete
+C:\Users\Jakub Kucera\Desktop\Kučera_projekt_Lekaři\DatabaseProject\DatabaseProject\obj\Debug\WindowsFormsApplication1.Form_Lekar.resources
